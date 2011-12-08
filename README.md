@@ -17,3 +17,5 @@ PROTOBUF=/usr/local/Cellar/protobuf/2.4.1/ node-waf configure
 ```
 
 Make sure you have compliled and install protobuf from google.
+
+Also make sure node cpp header files are located in `/usr/local/include/node`
